@@ -1,0 +1,24 @@
+{
+"cat_breeds": [
+    {
+      "breed": "Siamese",
+      "size": "Small to medium"
+    },
+    {
+      "breed": "Persian",
+      "size": "Medium to large"
+    },
+    {
+      "breed": "Sphynx",
+      "size": "Small to medium"
+    },
+    {
+      "breed": "Maine Coon",
+      "size": "Large"
+    },
+    {
+      "breed": "British Shorthair",
+      "size": "Medium"
+    }
+]
+}
